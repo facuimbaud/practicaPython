@@ -1,0 +1,10 @@
+Fecha,Producto,Categoría,Región,Ventas,Clientes
+2024-02-01,Producto A,Electrónica,Región Norte,450,25
+2024-02-02,Producto B,Hogar,,15
+2024-02-03,Producto C,Electrónica,Región Sur,350,20
+2024-02-04,Producto A,Electrónica,Región Norte,,28
+2024-02-05,Producto D,Hogar,Región Este,500,50
+2024-02-06,Producto C,Hogar,Región Este,200,20
+2024-02-07,Producto A,Electrónica,Región Norte,550,30
+2024-02-08,,Electrónica,Región Sur,200,25
+2024-02-09,Producto B,Hogar,Región Sur,300,30
